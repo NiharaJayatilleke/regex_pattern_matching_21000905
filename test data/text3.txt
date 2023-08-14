@@ -1,0 +1,1 @@
+I used KMP algorithm for pattern matching. 
